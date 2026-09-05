@@ -2,8 +2,7 @@
 - 👀 I’m interested in maths & biology & psychological analysis & linguistic
 - 🌱 I’m currently learning R,matlab  Linear algebra,mathematical analysis
 - 💞️ I’m looking to collaborate on game designing 
-- 📫 How to reach me :email:julianwhishaw001@outlook.com
-- 😄 Pronouns: he/him/they/them
+- 😄 Pronouns: she/her/they/them
   
 
 <!---
